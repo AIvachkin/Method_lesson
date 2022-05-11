@@ -1,1 +1,4 @@
+*.iml
 /Method_lesson.iml
+/out/
+/.idea/
